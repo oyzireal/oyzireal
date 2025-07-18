@@ -17,10 +17,7 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,php,mongo,cs&theme=dark" />
 </p>
 <br>
-<!-- 🛠️ Tools, IDEs, Platforms -->
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet,vscode,visualstudio,gitlab,powershell,stackoverflow,unrealengine&theme=dark" />
-</p>
+
 <br><br><br><br>
 <!-- 📈 Profile View Counter -->
 <h2 align="center">
